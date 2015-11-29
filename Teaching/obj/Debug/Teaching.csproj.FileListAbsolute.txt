@@ -5,4 +5,3 @@ C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching\obj\Debug\
 C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching\obj\Debug\Teaching.csproj.GenerateResource.Cache
 C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching\obj\Debug\Grade.exe
 C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching\obj\Debug\Grade.pdb
-C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching\obj\Debug\Teaching.csprojResolveAssemblyReference.cache

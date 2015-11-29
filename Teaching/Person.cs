@@ -4,9 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Grade
+namespace Teaching  
 {
     class Person
     {
+        Person Student = new Person();
+        Person Teacher = new Person();
+            
+
+
+
+
+
     }
 }

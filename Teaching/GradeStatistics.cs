@@ -19,6 +19,14 @@ namespace Teaching
         public float LowestGrade;
         public float AverageGrade;
 
+        //public int DefineGradeType()
+        //{
+        //    IndividualProjectGrades = 30;
+        //    ExamGrades = 40;
+        //    GroupProjectGrades = 30;
+
+        
+
 
     }
 }

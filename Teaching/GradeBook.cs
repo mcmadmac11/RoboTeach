@@ -1,16 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Teaching
 {
-    public class GradeBook   
+    public class GradeBook 
     {
 
         public GradeBook()
         {
+            
+            Name = "Empty";
             grades = new List<float>();      //New object created
 
         }
@@ -29,6 +32,14 @@ namespace Teaching
             return stats;
          }
 
+        public void WriteGrades(TextWriter destination)
+        {
+            for (int score = grades.Count; score > 0; score--)
+            {
+                destination.WriteLine(grades[score - 1]);
+            }
+        }
+
         public void AddGrade(float grade)
         {
             grades.Add(grade);
@@ -36,7 +47,7 @@ namespace Teaching
 
         public string Name;
 
-        List<float> grades;
+        public List<float> grades;
 
      }
       
