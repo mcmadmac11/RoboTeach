@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Text;
+using System.Text;  
 using System.Threading.Tasks;
 
 namespace Teaching
@@ -13,7 +13,7 @@ namespace Teaching
         public GradeBook()
         {
             
-            Name = "Empty";
+
             grades = new List<float>();      //New object created
 
         }
@@ -32,20 +32,20 @@ namespace Teaching
             return stats;
          }
 
-        public void WriteGrades(TextWriter destination)
-        {
-            for (int score = grades.Count; score > 0; score--)
-            {
-                destination.WriteLine(grades[score - 1]);
-            }
-        }
+        //public void WriteGrades(TextWriter destination)
+        //{
+        //    for (int score = grades.Count; score > 0; score--)
+        //    {
+        //        destination.WriteLine(grades[score - 1]);
+        //    }
+        //}
 
         public void AddGrade(float grade)
         {
             grades.Add(grade);
         }
 
-        public string Name;
+
 
         public List<float> grades;
 

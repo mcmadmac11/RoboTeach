@@ -1,4 +1,5 @@
-﻿using System;using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,7 +10,7 @@ namespace Teaching
     {
         static void Main(string[] args)
         {
-            
+
 
             GradeBook book = new GradeBook();
             book.AddGrade(91);
@@ -18,23 +19,11 @@ namespace Teaching
 
 
             GradeStatistics stats = book.ComputeStatistics();
-            WriteResult("Average", stats.AverageGrade);
-            WriteResult("Highest", (int)stats.HighestGrade);
-            WriteResult("Lowest", (int)stats.LowestGrade);
-
+            Console.WriteLine("Average", stats.AverageGrade);
+            Console.WriteLine("Highest", (int)stats.HighestGrade);
+            Console.WriteLine("Lowest", (int)stats.LowestGrade);
         }
 
-        static void WriteResult(string description, float result)
-        {
-            Console.WriteLine(description + ": " + result);
-        }
-        
-     
-        static void WriteResult(string description, int result)
-        {
-            Console.WriteLine(description + ": " + result);
-        }
-                        
-        
+
     }
 }

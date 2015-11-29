@@ -8,13 +8,11 @@ namespace Teaching
 {
     class Person
     {
-        Person Student = new Person();
-        Person Teacher = new Person();
-            
 
+        public string Name { get; set; }
+        public int age { get; set; }
+        public string Role { get; set; }
 
-
-
-
+    
     }
 }

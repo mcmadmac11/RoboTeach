@@ -1,7 +1,7 @@
-C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching\bin\Debug\Grade.exe.config
-C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching\bin\Debug\Grade.exe
-C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching\bin\Debug\Grade.pdb
-C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching\obj\Debug\Grade.Properties.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching\bin\Debug\Teaching.exe.config
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching\bin\Debug\Teaching.exe
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching\bin\Debug\Teaching.pdb
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching\obj\Debug\Teaching.Properties.Resources.resources
 C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching\obj\Debug\Teaching.csproj.GenerateResource.Cache
-C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching\obj\Debug\Grade.exe
-C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching\obj\Debug\Grade.pdb
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching\obj\Debug\Teaching.exe
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching\obj\Debug\Teaching.pdb
