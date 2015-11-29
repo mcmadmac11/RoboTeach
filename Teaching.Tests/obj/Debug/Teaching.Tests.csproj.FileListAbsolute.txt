@@ -1,0 +1,9 @@
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching.Tests\bin\Debug\Teaching.Tests.dll
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching.Tests\bin\Debug\Teaching.Tests.pdb
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching.Tests\obj\Debug\Teaching.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching.Tests\obj\Debug\Teaching.Tests.dll
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching.Tests\obj\Debug\Teaching.Tests.pdb
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching.Tests\bin\Debug\Grade.exe
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\RoboTeach\Teaching.Tests\bin\Debug\Grade.pdb

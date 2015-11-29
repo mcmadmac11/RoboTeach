@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Teaching
 {
-    class GradeStatistics
+    public class GradeStatistics
     {
         public GradeStatistics()
         {
